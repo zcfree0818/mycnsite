@@ -1,1 +1,17 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "yiheda.com",
+        "ihfcn.com",
+        "175dt.com",
+      ],
+      "domain_suffix": [
+        "yiheda.com",
+        "ihfcn.com",
+        "175dt.com",
+      ]
+    }
+  ]
+}
